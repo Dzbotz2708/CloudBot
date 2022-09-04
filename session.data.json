@@ -1,1 +1,2 @@
-ganti pake session MD
+language = "nodejs"
+run = 'rm -rf session.json && npm i && node Dhaistore.js'
